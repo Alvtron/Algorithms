@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms", "..\..\Algorithms1\Algorithms\Algorithms.csproj", "{852B8501-7CC8-4D15-A292-854F15CD1AE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms", "Algorithms\Algorithms.csproj", "{852B8501-7CC8-4D15-A292-854F15CD1AE3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console", "..\..\Algorithms1\Console\Console.csproj", "{3AF77111-3627-4A18-A4CE-7307BA07C966}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console", "Console\Console.csproj", "{3AF77111-3627-4A18-A4CE-7307BA07C966}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extensions", "..\..\Algorithms1\Extensions\Extensions.csproj", "{707BE56D-A894-4C8F-9B64-6E5E2DCF76F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extensions", "Extensions\Extensions.csproj", "{707BE56D-A894-4C8F-9B64-6E5E2DCF76F4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "..\..\Algorithms1\Library\Library.csproj", "{31D96955-8B2D-4F55-BE51-4161FC61BEA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "Library\Library.csproj", "{31D96955-8B2D-4F55-BE51-4161FC61BEA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
